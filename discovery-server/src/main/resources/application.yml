@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: discovery-server
+  config:
+    import: "configserver:http://localhost:8888"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

@@ -1,0 +1,11 @@
+com\microservices\orderservice\client\ProductClientFallback.class
+com\microservices\orderservice\model\Order.class
+com\microservices\orderservice\service\OrderService.class
+com\microservices\orderservice\client\ProductClient.class
+com\microservices\orderservice\dto\CreateOrderRequest.class
+com\microservices\orderservice\repository\OrderRepository.class
+com\microservices\orderservice\model\OrderStatus.class
+com\microservices\orderservice\OrderServiceApplication.class
+com\microservices\orderservice\client\ProductResponse.class
+com\microservices\orderservice\dto\OrderDTO.class
+com\microservices\orderservice\controller\OrderController.class

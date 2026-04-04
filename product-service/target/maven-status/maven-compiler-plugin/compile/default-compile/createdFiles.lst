@@ -1,0 +1,7 @@
+com\microservices\productservice\model\Product.class
+com\microservices\productservice\controller\ProductController.class
+com\microservices\productservice\ProductServiceApplication.class
+com\microservices\productservice\DataLoader.class
+com\microservices\productservice\dto\ProductDTO.class
+com\microservices\productservice\service\ProductService.class
+com\microservices\productservice\repository\ProductRepository.class

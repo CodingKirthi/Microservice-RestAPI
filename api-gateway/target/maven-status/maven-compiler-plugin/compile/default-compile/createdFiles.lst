@@ -1,0 +1,6 @@
+com\microservices\apigateway\dto\AuthResponse.class
+com\microservices\apigateway\ApiGatewayApplication.class
+com\microservices\apigateway\controller\AuthController.class
+com\microservices\apigateway\dto\AuthRequest.class
+com\microservices\apigateway\security\JwtAuthenticationFilter.class
+com\microservices\apigateway\security\JwtUtil.class

@@ -1,0 +1,11 @@
+C:\Microservice-Assignment2\order-service\src\main\java\com\microservices\orderservice\client\ProductResponse.java
+C:\Microservice-Assignment2\order-service\src\main\java\com\microservices\orderservice\dto\CreateOrderRequest.java
+C:\Microservice-Assignment2\order-service\src\main\java\com\microservices\orderservice\controller\OrderController.java
+C:\Microservice-Assignment2\order-service\src\main\java\com\microservices\orderservice\model\OrderStatus.java
+C:\Microservice-Assignment2\order-service\src\main\java\com\microservices\orderservice\repository\OrderRepository.java
+C:\Microservice-Assignment2\order-service\src\main\java\com\microservices\orderservice\model\Order.java
+C:\Microservice-Assignment2\order-service\src\main\java\com\microservices\orderservice\service\OrderService.java
+C:\Microservice-Assignment2\order-service\src\main\java\com\microservices\orderservice\client\ProductClient.java
+C:\Microservice-Assignment2\order-service\src\main\java\com\microservices\orderservice\client\ProductClientFallback.java
+C:\Microservice-Assignment2\order-service\src\main\java\com\microservices\orderservice\OrderServiceApplication.java
+C:\Microservice-Assignment2\order-service\src\main\java\com\microservices\orderservice\dto\OrderDTO.java
