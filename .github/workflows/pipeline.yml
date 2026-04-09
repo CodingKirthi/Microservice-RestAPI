@@ -120,5 +120,5 @@ jobs:
 
       - name: Verify container is running
         run: docker ps | grep order-service
-        |
-        # Screencast demo trigger - pipeline auto-run test
+
+      # Screencast demo trigger - pipeline auto-run test
